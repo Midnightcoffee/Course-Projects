@@ -1,4 +1,4 @@
-Dijstra's algoritm
+Dijstra's algoritm and Test Generator
 ======
 
 This is a walk through for how to create your own tests case files and accompanying graphs.
