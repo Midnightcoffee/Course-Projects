@@ -1,6 +1,10 @@
 Dijstra's algoritm
 ======
 
+This is a walk through for how to create your own tests case files and accompanying graphs.
+For an example of how to turn these into unit-tests look here:
+
+https://github.com/Midnightcoffee/Course-Projects/blob/master/dijkstra/test_dijkstra.py
 
 You will need the file "tools.py" and "test_generator.py
 
