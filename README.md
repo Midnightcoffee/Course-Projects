@@ -22,7 +22,7 @@ Every wounder which state is the happiest? This code tries to find out. It
 Machine Learning
 =============================================================================
 
-+ MachineLearning.m
++ machine_learning.m
 + Machine Learning
 + Stanford University
 + No Certification yet - class in progress
@@ -46,7 +46,7 @@ Take a look at the Readme in the file for more!
 Linear Algebra ... with code??!?
 ==============================================================================
 
-+ LinearAlgebra.py
++ linear_algebra.py
 + Coding the Matrix: Linear Algebra through Computer Science
 + Brown University
 + I was class TA
