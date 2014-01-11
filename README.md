@@ -16,6 +16,20 @@ Every wounder which state is the happiest? In this assignment we:
 + We estimate the public's perception (the sentiment) of a particular term or phrase.
 + analyzed the relationship between location and mood based on a sample of twitter data.
 
+
+Machine Learning
+=============================================================================
+
++ machineLearning.m
++ Machine Learning
++ Stanford University
++ No Certification yet - class in progress
+
+In this lab I coded up Vectorized backpropagation which allowed us to train
+our Neural Network. From this we were able to get a better prediction. Addtional
+I got to sharpen my octave and Linear Agebra skills
+
+
 Dijstra's Algorithm
 =============================================================================
 
@@ -64,9 +78,12 @@ analyzed to be a minor time benefit.
 
 
 
+
+
 Where is the rest?
 =====================
 Didn't you do a lot more? Yes, I did. But in reviewing my work I realized
 that it wouldn't be fair to other student to leave all my MOOC class work
-exposed. Furthermore its fairly distracting as 80% of it is template files
-and data files! On top of that 80% of udacity work was just done in-broswer.
+exposed. Furthermore its fairly distracting as 80% of it is template files/provided code and
+txt files for testing.
+! On top of that 80% of udacity work was just done in-broswer.
