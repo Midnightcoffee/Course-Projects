@@ -2,6 +2,7 @@ Course Projects
 ===========================
 This is a collection of projects from various classes, both online and
 at my University. 
+
 Big Data -- Which State is the happiest?
 ==============================================================================
 
