@@ -1,8 +1,8 @@
-Massive-Open-Online-Courses
+Course Projects
 ===========================
-
-
-Which State is the happiest?
+This is a collection of projects from various classes, both online and
+at my University. 
+Big Data -- Which State is the happiest?
 ==============================================================================
 
 + happiest_state.py
@@ -60,7 +60,7 @@ Depth-first Search VS Source Removal ... FIGHT!
 
 + toplogy/
 + Algorithms Design and analysis 
-+ Wayne State (you caught me this isn't an online class)
++ Wayne State 
 + Degree expected 2014
 
 This directory explains in code which algorithm has the better running time. 
@@ -70,20 +70,22 @@ source removal both employ sets to keep track of visited nodes. For what I
 analyzed to be a minor time benefit.
 
 
+Infix expression checker
+===========================================================================
 
++ infix_expression/
++ Computer Programing: Data Structures in C++
++ Wayne State
++ Degree expected 2014
 
+I Implement a program for evaluating infix expressions. The program read
+an infix expression from a text file, checked if the parentheses in the input expression are
+balanced and converted the infix expression into a postfix expression, and then evaluate that
+postfix expression.
 
-
-
-
-
-
-
+Comes complete with tests! 
 
 Where is the rest?
 =====================
-Didn't you do a lot more? Yes, I did. But in reviewing my work I realized
-that it wouldn't be fair to other student to leave all my MOOC class work
-exposed. Furthermore its fairly distracting as 80% of it is template files/provided code and
-txt files for testing.
-! On top of that 80% of udacity work was just done in-broswer.
+Didn't you do a lot more? Yes, I did. But for Honor Code reasons I thought it
+best to not leave it all public.
