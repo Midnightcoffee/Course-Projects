@@ -1,13 +1,5 @@
-NAME: Drew Verlee
-
-NOTES:
 Code is python 2.7 compatible
 $ (dollar symbol) means from the command line
-
-I tried to make main.py create two graphs, one that didn't contain
-the last point as its so much larger is pulls the graph to far. For some
-reason i won't create them both at the same time. So if you want the smaller
-points then COMMENT OUT THE TOP CODE and uncomment the bottom part.
 
 There are a number of good ways to test python code, if your familiar with
 nosetests you can use that to test all my code at once
@@ -154,5 +146,11 @@ http://docs.python.org/2/library/timeit.html
     the entire vector and apply common sense rather than statistics.
 
 
+------------- future improvements ----------------
+I tried to make main.py create two graphs, one that didn't contain
+the last point as its so much larger is pulls the graph to far. For some
+reason i won't create them both at the same time. So if you want the smaller
+points then COMMENT OUT THE TOP CODE and uncomment the bottom part.
 
+TODO: Fix this problem!
 

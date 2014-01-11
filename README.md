@@ -3,15 +3,16 @@ Course Projects
 This is a collection of projects from various classes, both online and
 at my University.
 
-Big Data -- Which State is the happiest?
+Using Twitter to find the happiest state
 ==============================================================================
 
-+ happiest_state.py
++ Data_Science/
 + Introduction to Data science
 + Washington University
 + Class Certification: https://drive.google.com/file/d/0B1C_HgqJ_YTrQmYyakdrWXdvV1E/edit?usp=sharing
++ Check The ReadMe: For how To run the code and discover for yourself
 
-Every wounder which state is the happiest? In this assignment we:
+Every wounder which state is the happiest? This code tries to find out. It
 
 + Access the Twitter Programming Interface(API) using Python.
 + We estimate the public's perception (the sentiment) of a particular term or phrase.
@@ -21,26 +22,25 @@ Every wounder which state is the happiest? In this assignment we:
 Machine Learning
 =============================================================================
 
-+ machineLearning.m
++ MachineLearning.m
 + Machine Learning
 + Stanford University
 + No Certification yet - class in progress
 
-In this lab I coded up Vectorized backpropagation which allowed us to train
-our Neural Network. From this we were able to get a better prediction. Addtional
-I got to sharpen my octave and Linear Agebra skills
-
+Vectorized backpropagation which allowed for a better trained Neural Network.
 
 Dijstra's Algorithm
 =============================================================================
 
- + dijkstra.py
+ + dijkstra/
  + Algorithms: Design and Analysis, Part 1
  + Stanford University
  + Class Certification: https://drive.google.com/file/d/0B1C_HgqJ_YTrQmhHVWcxWnVJUTA/edit?usp=sharing
 
-I coded up some great unit-tests and test visualizers for my online
-class mates. Take a look at the read me in the file for more!
+I had learned this algorithm in an early class so i jumped on the
+opportunity to code up a test_generator.py that produce test_files and
+an accompanying graph so you could get a better idea what went wrong
+Take a look at the Readme in the file for more!
 
 
 Linear Algebra ... with code??!?
@@ -49,11 +49,12 @@ Linear Algebra ... with code??!?
 + LinearAlgebra.py
 + Coding the Matrix: Linear Algebra through Computer Science
 + Brown University
++ I was class TA
 + Class Certification: https://drive.google.com/file/d/0B1C_HgqJ_YTrajRtZ1dzemkyVkE/edit?usp=sharing
 
 Think back to linear Algebra... to painful? This file gives a sample of
 how we used python to explore orthogonalization. Later we used these concepts
-to shrink an image... Pretty cool.
+to shrink an image... Pretty cool stuff!
 
 
 Algorithm Analysis: DFS vs Source Removal
@@ -63,13 +64,12 @@ Algorithm Analysis: DFS vs Source Removal
 + Algorithms Design and Analysis
 + Wayne State
 + Degree expected Dec, 2014
-+ ReadMe:
 
 The code in directory explains which algorithm has the better running time
 By using Pythongs Timeit module.For the final score check the Readme. I employed
 some rather unorthodox data structures in both algorithms. For instance, my DFS and
-source removal both benefit from a slight running time boost from using sets 
-to keep track of visited nodes. 
+source removal both benefit from a slight running time boost from using sets
+to keep track of visited nodes.
 
 
 Infix expression checker
@@ -78,7 +78,7 @@ Infix expression checker
 + infix_expression/
 + Computer Programing: Data Structures in C++
 + Wayne State
-+ Degree expected 2014
++ Degree expected Dec, 2014 2014
 
 I Implement a program for evaluating infix expressions. The program read
 an infix expression from a text file, checked if the parentheses in the input expression are

@@ -9,7 +9,6 @@ for Coding The Matrix through Coursera. This file focues on functions dealing
     with Orthogonalization.
 """
 
-
 from vec import Vec
 
 def project_along(b, v, eps = 1E-20):
@@ -40,7 +39,8 @@ def project_orthogonal(b, vlist):
     for v in vlist:
         b = b - project_along(b, v)
     return b
-    
+
+
 def aug_project_orthogonal(b, vlist, eps = 1E-20):
     alphadict = {len(vlist):1}
     for i,v in enumerate(vlist):
@@ -48,6 +48,7 @@ def aug_project_orthogonal(b, vlist, eps = 1E-20):
         alphadict[i] = sigma
         b = b - sigma*v
     return (b, alphadict)
+
 
 def orthogonalize(vlist):
     '''
@@ -64,6 +65,7 @@ def orthogonalize(vlist):
         vstarlist.append(project_orthogonal(v, vstarlist))
     return vstarlist
 
+
 def aug_orthogonalize(vlist):
     '''
     Input: a list of Vecs
@@ -77,4 +79,3 @@ def aug_orthogonalize(vlist):
         vstarlist.append(vstar)
         sigma_vecs.append(Vec(D, sigmadict))
     return vstarlist, sigma_vecs
-
