@@ -90,3 +90,4 @@ Where is the rest?
 =====================
 Didn't you do a lot more? Yes, I did. But for Honor Code reasons I thought it
 best to not leave it all public.
+http://help.coursera.org/customer/portal/articles/1164381-what-is-the-honor-code-
