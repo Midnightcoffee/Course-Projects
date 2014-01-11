@@ -1,7 +1,7 @@
 Course Projects
 ===========================
 This is a collection of projects from various classes, both online and
-at my University. 
+at my University.
 
 Big Data -- Which State is the happiest?
 ==============================================================================
@@ -9,7 +9,7 @@ Big Data -- Which State is the happiest?
 + happiest_state.py
 + Introduction to Data science
 + Washington University
-+ Class Certification: https://drive.google.com/file/d/0B1C_HgqJ_YTrQmYyakdrWXdvV1E/edit?usp=sharing 
++ Class Certification: https://drive.google.com/file/d/0B1C_HgqJ_YTrQmYyakdrWXdvV1E/edit?usp=sharing
 
 Every wounder which state is the happiest? In this assignment we:
 
@@ -56,19 +56,20 @@ how we used python to explore orthogonalization. Later we used these concepts
 to shrink an image... Pretty cool.
 
 
-Depth-first Search VS Source Removal ... FIGHT!
+Algorithm Analysis: DFS vs Source Removal
 ==========================================================================
 
-+ toplogy/
-+ Algorithms Design and analysis 
-+ Wayne State 
-+ Degree expected 2014
++ topology/
++ Algorithms Design and Analysis
++ Wayne State
++ Degree expected Dec, 2014
++ ReadMe:
 
-This directory explains in code which algorithm has the better running time. 
-For the break down check the readme. I employed 
-some rather unorthodox methods in both algorithms. For instance, my DFS and
-source removal both employ sets to keep track of visited nodes. For what I
-analyzed to be a minor time benefit.
+The code in directory explains which algorithm has the better running time
+By using Pythongs Timeit module.For the final score check the Readme. I employed
+some rather unorthodox data structures in both algorithms. For instance, my DFS and
+source removal both benefit from a slight running time boost from using sets 
+to keep track of visited nodes. 
 
 
 Infix expression checker
@@ -84,7 +85,7 @@ an infix expression from a text file, checked if the parentheses in the input ex
 balanced and converted the infix expression into a postfix expression, and then evaluate that
 postfix expression.
 
-Comes complete with tests! 
+Comes complete with tests!
 
 Where is the rest?
 =====================
