@@ -120,8 +120,15 @@ While many of the techinques are overkill for my small projects there
 are definatly concepts they were definatly concepts that will be useful 
 on future larger projects. 
 
-Is your credit card valid?
-========================================================================
+Reductions
+=======================================================================
++ reduction_k_clique_to_decision.py
++ Algorithms
++ Udacity
+
+Reductions in school are usually done only theortically. Well thats no fun!
+With Udacity's help i was able to code my reduction in python
+
 Where is the rest?
 =====================
 Didn't you do a lot more? Yes, I did. But for Honor Code reasons I thought it
