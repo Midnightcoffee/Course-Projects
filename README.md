@@ -49,6 +49,19 @@ an accompanying graph so you could get a better idea what went wrong
 Take a look at the Readme in the file for more!
 
 
+Peak Finding Algorithm
+=============================================================================
++ peak_finding/
++ description [here](http://courses.csail.mit.edu/6.006/spring11/rec/rec02.pdf)
++ 6006: algorithms
++ MIT
++ I completed all the lectures and I'm currently about halfway through the
+assignments.
+
+MIT 6006 is a goldmine of information. [Erik Demaine](http://erikdemaine.org/classes/) 
+is my hero. This fuled my passion for algorithms. Ok enough sentiment. Peak finding
+is a great exercises becuase there are so many ways to do it. Try it ourself!
+
 Linear Algebra ... with code??!?
 ==============================================================================
 
