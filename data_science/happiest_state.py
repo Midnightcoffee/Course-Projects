@@ -12,6 +12,7 @@ from pprint import pprint
 
 
 def get_US_and_EN_tweets(tweet_file):
+    """ gathers all the English tweets from the United States"""
     US_tweets = {} # state: [tweet, tweet ...]
     for line in tweet_file:
         jline = json.loads(line)

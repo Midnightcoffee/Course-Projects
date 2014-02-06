@@ -108,6 +108,20 @@ postfix expression.
 
 Comes complete with tests!
 
+Software Testing
+=========================================================================
++ random_testing.py
++ software testing class
++ Udacity
+
+This class covered, coverage testing, code coverage, random testing and
+a whole lot more. It might be the only online class focused on testing.
+While many of the techinques are overkill for my small projects there 
+are definatly concepts they were definatly concepts that will be useful 
+on future larger projects. 
+
+Is your credit card valid?
+========================================================================
 Where is the rest?
 =====================
 Didn't you do a lot more? Yes, I did. But for Honor Code reasons I thought it
