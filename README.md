@@ -33,7 +33,7 @@ Machine Learning
 This code is accomplishes Vectorized backpropagation, which allows for a
 better trained Neural Network.
 
-Dijstra's Algorithm
+Testing Dijstra's Algorithm
 =============================================================================
 
 
@@ -43,7 +43,7 @@ Dijstra's Algorithm
 + Stanford University
 + Class Certification: https://drive.google.com/file/d/0B1C_HgqJ_YTrQmhHVWcxWnVJUTA/edit?usp=sharing
 
-I had learned this algorithm in an early class so i jumped on the
+I had learned this algorithm in an early class, so i jumped on the
 opportunity to code up a test_generator.py that produce test_files and
 an accompanying graph so you could get a better idea what went wrong
 Take a look at the Readme in the file for more!
