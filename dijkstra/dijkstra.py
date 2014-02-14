@@ -13,8 +13,6 @@ from collections import defaultdict
 from tools import file_to_graph
 
 
-
-
 def val(pair): return pair[0]
 def id(pair): return pair[1]
 
@@ -73,7 +71,7 @@ if __name__ == '__main__':
     # G = file_to_graph(file_name)
     # final_dist = dijkstra(G, int(start))
     # print(final_dist[int(finish)])
-    G = file_to_graph('../data/dijkstraData.txt')
+    G = file_to_graph('data/dijkstraData.txt')
     print dijkstra(G, 1, finish=[7,37,59,82,99,115,133,165,188,197])
 
 
