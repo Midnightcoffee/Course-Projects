@@ -126,8 +126,20 @@ Reductions
 + Algorithms
 + Udacity
 
-Reductions in school are usually done only theortically. Well thats no fun!
-With Udacity's help i was able to code my reduction in python
+Reductions in school are usually done only theoretically. Well thats no fun!
+With Udacity's help I was able to code my reduction in python
+
+SQL
+==========================================================================
++ queries.sql
++ Stanford database class
++ Coursera
+
+This class covers relational database, normalization, triggers, xml, json
+and nosql. I took it along side my database class at Wayne States class which
+futher covered ER diagrams and schemas.
+
+
 
 Where is the rest?
 =====================
